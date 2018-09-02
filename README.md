@@ -9,4 +9,6 @@ Right now only idea.
 
 master, develop and feature branches model. [1]
 
-[1] https://nvie.com/posts/a-successful-git-branching-model/
+## References
+
+1. https://nvie.com/posts/a-successful-git-branching-model/
